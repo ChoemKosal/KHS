@@ -8,6 +8,7 @@
     <color name="green">#0F963C</color>
     <color name="blue">#163AF5</color>
     <color name="triadic">#880061</color>
+    <color name="register_background">#D0BCF3</color>
 
 
 </resources>

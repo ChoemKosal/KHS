@@ -13,9 +13,18 @@
             android:icon="@drawable/ic_profile"
             android:title="@string/menu_profile" />
         <item
+            android:id="@+id/nav_supplier"
+            android:icon="@drawable/ic_supplier"
+            android:title="@string/menu_supplier" />
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/ic_contact"
+            android:title="@string/menu_contact" />
+        <item
             android:id="@+id/nav_settings"
             android:icon="@drawable/ic_settings"
             android:title="@string/menu_settings" />
+
         <item
             android:id="@+id/nav_help"
             android:icon="@drawable/ic_help"
